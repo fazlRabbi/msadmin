@@ -1,4 +1,4 @@
-Application for multiple sclerosis
+Admin application for the MS-APP for multiple sclerosis
 ==============
 
 ## How to build and run project locally
