@@ -10,8 +10,6 @@ Run Maven command "install" to update and generate the .war file.
 
 Setup the Tomcat server and run the application as a Tomcat application.
 
-The MS-application should now be available on localhost:8080.
-
 ## MediCloud
 The settings for running the application is found in the "manifest.yml" file. Here you can specify the path for the .war file, memory, instances and the URL for the application.
 
