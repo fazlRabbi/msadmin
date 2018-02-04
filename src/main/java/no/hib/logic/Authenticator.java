@@ -25,7 +25,7 @@ public class Authenticator {
             //add reuqest header
             con.setRequestMethod("POST");
             con.setRequestProperty("Content-Type","application/json; charset=utf-8");
-            con.setRequestProperty("Authorization", "Bearer " + config.getPropertyValue("Token"));
+            //con.setRequestProperty("Authorization", "Bearer " + config.getPropertyValue("Token"));
 
             // Send post request
             con.setDoOutput(true);
